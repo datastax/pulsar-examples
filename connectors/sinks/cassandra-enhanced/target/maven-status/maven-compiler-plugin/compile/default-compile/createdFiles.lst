@@ -1,0 +1,4 @@
+com/datastax/pulsar/SimplePulsarConsumer.class
+com/datastax/pulsar/DemoBean.class
+com/datastax/pulsar/DemoKesqueConfiguration.class
+com/datastax/pulsar/SimplePulsarProducer.class
