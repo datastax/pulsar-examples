@@ -1,0 +1,9 @@
+className : org.example.InitCapFunction
+name : InitCapFunction
+tenant : ten1
+namespace : ns1
+inputs :
+  - ten1/ns1/input
+output : ten1/ns1/output
+autoAck : true
+processingGuarantees : ATLEAST_ONCE
